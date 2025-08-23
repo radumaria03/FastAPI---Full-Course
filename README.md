@@ -11,6 +11,6 @@
  * SQLAlchemy Database Connection (with Table Plus)
    * create model and tables, store/get/delete blog/user from database, hash user password, exception & status code
  * APIRouter
- * Logn & verify Password
+ * Login & verify Password
  * JWT Access Token (route behind authentication)
      
